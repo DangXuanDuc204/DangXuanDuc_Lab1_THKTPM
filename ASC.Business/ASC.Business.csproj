@@ -6,9 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\ASC.DataAccess\ASC.DataAccess.csproj" />
     <ProjectReference Include="..\ASC.Model\ASC.Model.csproj" />
   </ItemGroup>
 
+=======
+>>>>>>> b85079c (Lab3)
 </Project>

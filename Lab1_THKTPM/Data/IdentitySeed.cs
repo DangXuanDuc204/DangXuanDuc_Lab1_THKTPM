@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿
 using ASC.Model.BaseTypes;
+=======
+﻿using ASC.Model.BaseTypes;
+>>>>>>> b85079c (Lab3)
 using Lab1_THKTPM.Configuration;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;

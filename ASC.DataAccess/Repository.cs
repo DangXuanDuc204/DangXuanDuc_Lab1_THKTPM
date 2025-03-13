@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿using ASC.DataAccess.Interfaces;
+=======
+﻿using ASC.DataAccess.Interface;
+>>>>>>> b85079c (Lab3)
 using ASC.Model.BaseTypes;
 using Microsoft.EntityFrameworkCore;
 using System;
